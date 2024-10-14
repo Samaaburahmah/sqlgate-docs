@@ -10,9 +10,9 @@ sidebar_label: Run Queries
 > Supports :
 > ![support-database](<http://www.sqlgate.com/docs-badge/oracle,mysql,mariadb,postgresql,sqlserver,db2,tibero,cubrid>)
 
-This is how to access Oracle database server.
+This is how to access the Oracle database server.
 
-- On the main menu bar, select **Files**>**New Connection**. Or on the Toolbar, click [New Connection] or press Ctrl+Alt+L. This will open a **New Connection** window. 
+On the main menu bar, select ** Files **> ** New Connection **. On the Toolbar, click [New Connection] or press Ctrl+Alt+L. This will open a **New Connection** window. 
 - Input values for the database and access, and then click [Connect].
 
 ![new connection](https://s3.ap-northeast-2.amazonaws.com/sqlgate-resource/captures/start/new-connection-en.png)
